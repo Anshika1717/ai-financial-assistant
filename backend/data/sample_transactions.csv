@@ -1,0 +1,9 @@
+date,amount,type,category,merchant,description
+2025-01-01 09:00:00,72000,income,Salary,Tata Steel,January salary
+2025-01-01 13:10:00,280,expense,Food,Zomato,Lunch order
+2025-01-03 18:40:00,2499,expense,Shopping,Amazon,Wireless keyboard
+2025-01-13 23:55:00,18500,expense,Transfer,Unknown,Late night transfer
+2025-02-01 09:00:00,72000,income,Salary,Tata Steel,February salary
+2025-02-07 23:58:00,31200,expense,Transfer,Unknown,Large midnight transfer
+2025-03-12 23:50:00,34500,expense,Transfer,Unknown,Large suspicious transfer
+2025-04-14 23:57:00,36800,expense,Transfer,Unknown,Very large midnight transfer
